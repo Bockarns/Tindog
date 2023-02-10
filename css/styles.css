@@ -107,6 +107,8 @@ p {
 /* Testimonials */
 #testimonials {
   background-color: #ef8172;
+  position: relative;
+  z-index: 1;
 }
 
 .testimonial-text {
